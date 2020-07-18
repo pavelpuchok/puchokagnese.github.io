@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Agnese Poikane | Data Analyst & Sociologist
-email:       'agnesepoikane.inbox.lv'
-description: 'Аналитика данных, социология и методы исследования'
-baseurl:     '' # The subpath of your site, e.g. /blog
+title:       Социология и аналитика данных
+email:       'agnesepoikane@inbox.lv'
+#description: 'Аналитика данных, социология и методы исследования'
+baseurl:     'http://blog.agnesepoikane.com/' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-#twitter:     ''
+
 github:      'https://github.com/puchokagnese'
 linkedin:    'https://www.linkedin.com/in/agnese-poikane-pucoka/'
 facebook:    'https://www.facebook.com/agnese.poikane/'
