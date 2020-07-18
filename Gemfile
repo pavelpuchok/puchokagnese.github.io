@@ -4,5 +4,6 @@ gem 'bundler'
 gem 'jekyll', '~> 4.0'
 gem 'jekyll-paginate'
 gem 'jekyll-tagging'
+gem 'jekyll-commonmark'
 gem 'jemoji'
 

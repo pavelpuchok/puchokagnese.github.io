@@ -9,8 +9,8 @@
 title:       Социология и аналитика данных
 email:       'agnesepoikane@inbox.lv'
 #description: 'Аналитика данных, социология и методы исследования'
-baseurl:     'http://blog.agnesepoikane.com/' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         'https://blog.agnesepoikane.com/' # The base hostname & protocol for your site
 
 github:      'https://github.com/puchokagnese'
 linkedin:    'https://www.linkedin.com/in/agnese-poikane-pucoka/'
@@ -28,6 +28,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-commonmark
   - jemoji
 
 include:
