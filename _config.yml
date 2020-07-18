@@ -28,6 +28,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll/tagging
+  - jemoji
 
 include:
   - _pages
