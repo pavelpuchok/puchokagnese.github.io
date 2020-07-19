@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Обо мне
-image: '/images/pages/DSC04153.JPG'
+image: '/images/pages/DSC04153_1.jpg'
 ---
 
 Привет! 
