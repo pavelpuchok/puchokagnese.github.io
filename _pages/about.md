@@ -1,11 +1,27 @@
 ---
 layout: page
-title: About
-image: '/images/pages/about.jpeg'
+title: Обо мне
+image: '/images/pages/DSC04153.JPG'
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+Привет! 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Меня зовут Агнесе. Я социолог, аналитик данных, [волонтер UNICEF](https://www.unicef.by/en/) в Беларуси и член [Ассоциации социального предпринимательства](https://sua.lv/en/lsua-eng/) в Латвии. 
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Раньше я профессионально развивалась в сфере межкультурных отношений, работала в центрах национальных меньшинств и на государственной службе, а в свободное время занималась волонтерством (от социализации собак из приютов до проектов Европейской волонтерской службы).
+
+Сейчас мои профессиональные интересы находятся на стыке аналитики данных, социологии, социальной психологии, социального предпринимательство и филантропии.
+
+Как аналитик данных, отдаю предпочтение проектам, которые:
+
+:small_blue_diamond: связаны с анализом поведения пользователей в мобильных приложениях
+
+:small_blue_diamond: связаны с анализом данных для социальных предприятий, этичных брендов и предприятий с высокой корпоративной социальной ответственностью
+
+:small_blue_diamond: направлены на решение социальных проблем.
+
+В свободное время, если не обрабатываю очередной датасет, пишу блог, учу арабский, читаю книги (предпочитаю true-crime, биографии и профессиональную литературу), смотрю кино СССР, разгадываю судоку, собираю пазлы, отправляясь в походы, путешествую и [фотографирую граффити](https://www.instagram.com/agnese_travels/). 
+
+Я [почти всегда] открыта для новых, интересных и социально полезных проектов, поэтому, если у тебя есть идея и необходима помощь со сбором информации и анализом данных, напиши мне - обсудим детали!
+
+:round_pushpin: Минск, Рига, Вильнюс
