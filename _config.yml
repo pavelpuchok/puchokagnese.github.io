@@ -13,7 +13,7 @@ baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.agnesepoikane.com/' # The base hostname & protocol for your site
 
 github:      'https://github.com/puchokagnese'
-linkedin:    'https://www.linkedin.com/in/agnese-poikane-pucoka/'
+linkedin:    'https://www.linkedin.com/in/agnese-poikane/'
 facebook:    'https://www.facebook.com/agnese.poikane/'
 instagram:   'https://www.instagram.com/poikaneagnese/'
 
