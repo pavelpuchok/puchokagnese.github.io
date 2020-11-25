@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обо мне
+title: Par mani
 image: '/images/pages/DSC04153_1.jpg'
 lang: in
 ref: about
