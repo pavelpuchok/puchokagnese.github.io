@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Отзыв о курсе “Аналитик данных” от Яндекс.Практикум
+title: Atsauksme - testa fails
 tags: ["яндекс_практикум", "курсы", "отзыв", "блог", "аналитик_данных"]
 image: '/images/posts/person-in-beige-long-sleeve-shirt-using-macbook-pro-4065876.jpg'
 lang: Latvian
