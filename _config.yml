@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Cilvēks un sabiedrība
-titleRu:       Социология и аналитика данных
+#title:       Cilvēks un sabiedrība
+title:       Социология и аналитика данных
 
 email:       'agnesepoikane@inbox.lv'
 #description: 'Аналитика данных, социология и методы исследования'
@@ -24,14 +24,14 @@ markdown:  kramdown
 permalink: pretty
 paginate:  10
 
-include:
-  - label: Russian
-  - icon: :ru:
-  - read_it_in: 'Читать на русском'
-it is:
-  - label: Latvian
-  - icon: :latvia:
-  - read_it_in: 'Lasīt latviski'
+#include:
+#  - label: Russian
+#  - icon: :ru:
+#  - read_it_in: 'Читать на русском'
+#it is:
+#  - label: Latvian
+#  - icon: :latvia:
+#  - read_it_in: 'Lasīt latviski'
 
 sass:
   style: compressed
