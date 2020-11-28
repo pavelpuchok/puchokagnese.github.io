@@ -4,7 +4,8 @@ layout: default
 
 <div class='o-wrapper'>
   <div class='o-grid'>
-    {% for post in paginator.posts %}
+    {% assign lang_posts=site.posts | where:"lang", site.default_lang %}
+    {% for post in lang_posts %}
       {% include post-card.liquid %}
     {% endfor %}
   </div>

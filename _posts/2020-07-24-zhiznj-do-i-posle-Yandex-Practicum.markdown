@@ -3,7 +3,8 @@ layout: post
 title: Жизнь ДО и ПОСЛЕ Яндекс.Практикум
 tags: ["яндекс_практикум", "личное", "выгорание", "блог", "аналитик_данных"]
 image: '/images/posts/rakstam/crop-woman-writing-in-notebook-at-home-4050300.jpg'
-
+lang: ru
+ref: 2020-07-24-zhiznj-do-i-posle-Yandex-Practicum
 ---
 
 Продолжаю серию статей, в которых рассказываю про свой опыт обучения на программе [«Аналитик данных»](https://praktikum.yandex.ru/data-analyst) от Яндекс.Практикум (далее - Практикум). 

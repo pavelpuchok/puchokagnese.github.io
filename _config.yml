@@ -61,3 +61,15 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+default_lang: 'ru'
+languages:
+  ru:
+    country: ru # defines country code for flag icon
+    title: Читать по-русски
+  en:
+    country: gb
+    title: Read it in english
+  lv:
+    country: lv
+    title: Read it in latvian

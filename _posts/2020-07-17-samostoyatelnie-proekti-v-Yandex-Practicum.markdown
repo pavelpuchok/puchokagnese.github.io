@@ -3,7 +3,8 @@ layout: post
 title: Самостоятельные проекты в Яндекс.Практикуме
 tags: ["яндекс_практикум", "курсы", "отзыв", "блог", "проекты", "аналитик_данных"]
 image: '/images/posts/white-ceramic-mug-on-white-table-4065894.jpg'
-
+lang: ru
+ref: 2020-07-17-samostoyatelnie-proekti-v-Yandex-Practicum
 ---
 
 Ранее я уже писала о плюсах и минусах программы “Профессия аналитик данных” от [Яндекс.Практикум](https://praktikum.yandex.ru/) (далее - Практикум). Статью можно прочитать [тут](http://blog.agnesepoikane.com/2020/05/02/otziv-o-kurse-Analitik-dannih-ot-Yandex-Practicum/). 

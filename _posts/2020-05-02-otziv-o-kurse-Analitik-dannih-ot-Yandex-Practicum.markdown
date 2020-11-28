@@ -3,8 +3,8 @@ layout: post
 title: Отзыв о курсе “Аналитик данных” от Яндекс.Практикум
 tags: ["яндекс_практикум", "курсы", "отзыв", "блог", "аналитик_данных"]
 image: '/images/posts/person-in-beige-long-sleeve-shirt-using-macbook-pro-4065876.jpg'
-lang: Russian
-ref: yndx_atsauksme
+lang: ru
+ref: 2020-05-02-otziv-o-kurse-Analitik-dannih-ot-Yandex-Practicum-
 ---
 
 В марте 2020 года завершилась моя учёба на курсе [“Аналитик данных” от Яндекс.Практикум](https://praktikum.yandex.ru/) (далее - Практикум). В этой статье расскажу, что мне понравилось, а что, по моему скромному мнению, можно улучшить.

@@ -17,6 +17,17 @@ layout: default
 
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
 
+        {% assign translates=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        <div class='c-post__langs'>
+          {% for trans in translates %}
+          {% if trans.lang != page.lang %}
+          {% assign data=site.languages[trans.lang] %}
+          <a href='{{ trans.url }}'><span class="flag-icon flag-icon-{{ data.country }}" title="{{data.title}}"></span></a>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+
         <div class='c-content' itemprop='articleBody'>
           {% include page-image.html %}
 
